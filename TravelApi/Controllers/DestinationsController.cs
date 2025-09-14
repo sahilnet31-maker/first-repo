@@ -11,7 +11,7 @@ namespace TravelApi.Controllers
         {
             var destinations = new[]
             {
-                new { Id = 1, Name = "Paris" },
+                new { Id = 1, Name = "Pariss" },
                 new { Id = 2, Name = "New York" },
                 new { Id = 3, Name = "Tokyo" }
             };
